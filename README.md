@@ -85,4 +85,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 - OpenAI for the GPT-4 API
 - Gradio team for the wonderful UI framework
-- All contributors and users of this project 
+- All contributors and users of this project # vampire_chat
